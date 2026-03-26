@@ -102,6 +102,18 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**<a href="https://github.com/whynowlab/pulser">pulser</a>** — Claude Code 스킬 진단 + 테스트
+<br><sub>8가지 규칙 진단 · 자동 수정 · 롤백 · eval 테스트 · 회귀 감지</sub>
+<br><br>
+[![Stars](https://img.shields.io/github/stars/whynowlab/pulser?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/pulser) [![npm](https://img.shields.io/npm/v/pulser-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
