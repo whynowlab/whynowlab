@@ -2,9 +2,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whynowlab/whynowlab/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whynowlab/whynowlab/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/whynowlab/whynowlab/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheStack-ai/TheStack-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheStack-ai/TheStack-ai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TheStack-ai/TheStack-ai/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -79,46 +79,46 @@
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/swing-skills">Swing Skills</a>** — 6 cognitive firewalls for AI agents
+**<a href="https://github.com/TheStack-ai/swing-skills">Swing Skills</a>** — 6 cognitive firewalls for AI agents
 <br><sub>Unverified answers · Surface-level reviews · Optimism bias · Default lock-in · Opaque reasoning · Shallow analysis</sub>
 <br><br>
-[![Stars](https://img.shields.io/github/stars/whynowlab/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/swing-skills) `npx skills add swing-skills --all`
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/swing-skills) `npx skills add swing-skills --all`
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/mrstack">Mr.Stack</a>** — An AI butler that grows with every conversation
+**<a href="https://github.com/TheStack-ai/mrstack">Mr.Stack</a>** — An AI butler that grows with every conversation
 <br><sub>24/7 Telegram · Long-term memory · Voice-to-action · Morning briefing · Weekly retrospective</sub>
 <br><br>
-[![Stars](https://img.shields.io/github/stars/whynowlab/mrstack?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/mrstack) `uv tool install claude-code-telegram`
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/mrstack?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/mrstack) `uv tool install claude-code-telegram`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/jarvis-orb">Jarvis Orb</a>** — Real-time visualization of AI reasoning
+**<a href="https://github.com/TheStack-ai/jarvis-orb">Jarvis Orb</a>** — Real-time visualization of AI reasoning
 <br><sub>4-Tier Memory · Temporal Scoring · Desktop Orb · Auto-connect to Claude Code</sub>
 <br><br>
-[![Stars](https://img.shields.io/github/stars/whynowlab/jarvis-orb?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/jarvis-orb) [![macOS](https://img.shields.io/badge/macOS-ready-white?style=flat-square&logo=apple&logoColor=white)](https://github.com/whynowlab/jarvis-orb)
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/jarvis-orb?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/jarvis-orb) [![macOS](https://img.shields.io/badge/macOS-ready-white?style=flat-square&logo=apple&logoColor=white)](https://github.com/TheStack-ai/jarvis-orb)
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/zclean">zclean</a>** — Auto-cleanup zombie processes from AI coding tools
+**<a href="https://github.com/TheStack-ai/zclean">zclean</a>** — Auto-cleanup zombie processes from AI coding tools
 <br><sub>Auto-detect · SessionEnd Hook · Time-based protection · Avg ~2.4 GB reclaimed</sub>
 <br><br>
-[![Stars](https://img.shields.io/github/stars/whynowlab/zclean?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/zclean) [![npm](https://img.shields.io/npm/v/@thestackai/zclean?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@thestackai/zclean)
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/zclean?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/zclean) [![npm](https://img.shields.io/npm/v/@thestackai/zclean?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@thestackai/zclean)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/pulser">pulser</a>** — Diagnose & test Claude Code skills
+**<a href="https://github.com/TheStack-ai/pulser">pulser</a>** — Diagnose & test Claude Code skills
 <br><sub>8-rule diagnostics · Auto-fix · Rollback · Eval testing · Regression detection</sub>
 <br><br>
-[![Stars](https://img.shields.io/github/stars/whynowlab/pulser?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/pulser) [![npm](https://img.shields.io/npm/v/pulser-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/pulser?style=flat-square&color=a78bfa&logo=github)](https://github.com/TheStack-ai/pulser) [![npm](https://img.shields.io/npm/v/pulser-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
 
 </td>
 <td width="50%" valign="top">
@@ -202,14 +202,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=whynowlab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=whynowlab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheStack-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheStack-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whynowlab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStack-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
 
 </div>
 
@@ -222,12 +222,12 @@
 <br>
 
 [![Threads](https://img.shields.io/badge/Threads-@thestack__ai-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@thestack_ai)
-[![Swing Skills](https://img.shields.io/badge/Swing_Skills-Install_Now-a78bfa?style=for-the-badge)](https://github.com/whynowlab/swing-skills)
+[![Swing Skills](https://img.shields.io/badge/Swing_Skills-Install_Now-a78bfa?style=for-the-badge)](https://github.com/TheStack-ai/swing-skills)
 [![Email](https://img.shields.io/badge/Contact-thekcatsai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekcatsai@gmail.com)
 
 <br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=whynowlab)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/whynowlab)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheStack-ai)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/TheStack-ai)
 
 </div>
