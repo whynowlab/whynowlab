@@ -57,7 +57,7 @@
 ![GPT](https://img.shields.io/badge/GPT-5.4-412991?style=flat-square&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-CLI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> *"AI는 원래 이렇게 생각할 수 있었습니다. 다만 아무도 시킨 적이 없었을 뿐."*
+> *"AI could always think like this. No one ever asked it to."*
 
 </div>
 
@@ -80,15 +80,15 @@
 <td width="50%" valign="top">
 
 **<a href="https://github.com/whynowlab/swing-skills">Swing Skills</a>** — 6 cognitive firewalls for AI agents
-<br><sub>미검증 답변 · 표면적 리뷰 · 낙관 편향 · 디폴트 고착 · 불투명 추론 · 얕은 분석</sub>
+<br><sub>Unverified answers · Surface-level reviews · Optimism bias · Default lock-in · Opaque reasoning · Shallow analysis</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/whynowlab/swing-skills?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/swing-skills) `npx skills add swing-skills --all`
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/mrstack">Mr.Stack</a>** — 대화할수록 성장하는 AI 집사
-<br><sub>24/7 텔레그램 · 장기 메모리 · 음성→실행 · 아침 브리핑 · 주간 회고</sub>
+**<a href="https://github.com/whynowlab/mrstack">Mr.Stack</a>** — An AI butler that grows with every conversation
+<br><sub>24/7 Telegram · Long-term memory · Voice-to-action · Morning briefing · Weekly retrospective</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/whynowlab/mrstack?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/mrstack) `uv tool install claude-code-telegram`
 
@@ -97,16 +97,16 @@
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/jarvis-orb">Jarvis Orb</a>** — AI 사고 과정 실시간 시각화
-<br><sub>4-Tier Memory · Temporal Scoring · 데스크탑 Orb · Claude Code 자동 연결</sub>
+**<a href="https://github.com/whynowlab/jarvis-orb">Jarvis Orb</a>** — Real-time visualization of AI reasoning
+<br><sub>4-Tier Memory · Temporal Scoring · Desktop Orb · Auto-connect to Claude Code</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/whynowlab/jarvis-orb?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/jarvis-orb) [![macOS](https://img.shields.io/badge/macOS-ready-white?style=flat-square&logo=apple&logoColor=white)](https://github.com/whynowlab/jarvis-orb)
 
 </td>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/zclean">zclean</a>** — AI 코딩 툴 좀비 프로세스 자동 정리
-<br><sub>자동 탐지 · SessionEnd Hook · 시간별 보호 · 평균 ~2.4 GB 회수</sub>
+**<a href="https://github.com/whynowlab/zclean">zclean</a>** — Auto-cleanup zombie processes from AI coding tools
+<br><sub>Auto-detect · SessionEnd Hook · Time-based protection · Avg ~2.4 GB reclaimed</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/whynowlab/zclean?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/zclean) [![npm](https://img.shields.io/npm/v/@thestackai/zclean?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@thestackai/zclean)
 
@@ -115,8 +115,8 @@
 <tr>
 <td width="50%" valign="top">
 
-**<a href="https://github.com/whynowlab/pulser">pulser</a>** — Claude Code 스킬 진단 + 테스트
-<br><sub>8가지 규칙 진단 · 자동 수정 · 롤백 · eval 테스트 · 회귀 감지</sub>
+**<a href="https://github.com/whynowlab/pulser">pulser</a>** — Diagnose & test Claude Code skills
+<br><sub>8-rule diagnostics · Auto-fix · Rollback · Eval testing · Regression detection</sub>
 <br><br>
 [![Stars](https://img.shields.io/github/stars/whynowlab/pulser?style=flat-square&color=a78bfa&logo=github)](https://github.com/whynowlab/pulser) [![npm](https://img.shields.io/npm/v/pulser-cli?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/pulser-cli)
 
@@ -130,8 +130,8 @@
 
 ## Architecture: Jarvis AI OS
 
-> Claude Code를 커널로, 그 위에 AI 운영체제를 구축했습니다.
-> 시스템의 90%를 Claude Code가 스스로 만들었습니다.
+> Built an AI operating system on top of Claude Code as the kernel.
+> 90% of the system was built by Claude Code itself.
 
 ```
   ┌─────────────────────────────────────────────────┐
