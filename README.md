@@ -215,7 +215,7 @@
 
 [![Threads](https://img.shields.io/badge/Threads-@thestack__ai-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@thestack_ai)
 [![Swing Skills](https://img.shields.io/badge/Swing_Skills-Install_Now-a78bfa?style=for-the-badge)](https://github.com/whynowlab/swing-skills)
-[![Email](https://img.shields.io/badge/Contact-thestack.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thestack.ai@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-thekcatsai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekcatsai@gmail.com)
 
 <br>
 
