@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/whynowlab/svg?sort=cost&compact=1)](https://tokscale.ai/u/whynowlab)
+[![Tokscale Stats](https://tokscale.ai/api/embed/TheStack-ai/svg?sort=cost&compact=1)](https://tokscale.ai/u/TheStack-ai)
 
 </div>
 
